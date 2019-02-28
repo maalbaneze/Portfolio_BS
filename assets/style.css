@@ -41,10 +41,13 @@ body {
                         }
                     a:visited {
                         color: purple;
-                        }
-        #top, .navigation {
+                        } */
+        /* #top, .navigation {
             float: left;
         } */
+    .navbar-nav {
+        padding-left: 250;
+        }
     .container {
         /* clear: both;
         font-family: 'Georgia', Times, 'Times New Roman', serif; */
